@@ -1,0 +1,9 @@
+1. For package.json - 
+npm init -y
+
+2. The packages/dependencies being installed - 
+npm i express config mongoose shortid valid-url
+
+3. Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. 
+Perfect for development. Install it as follows - 
+npm i -D nodemon
